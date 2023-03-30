@@ -43,12 +43,18 @@ P.2.5 The Views and Beyond "Method"
 We call our approach to documentation Views and Beyond. This is
 to emphasize that we use the concept of a view-explained in the
 next section-as the fundamental organizing principle for architecture
-documentation, but also because we go beyond views to include additional information that belongs in an architecture document.
-Views and Beyond is not actually a method. It does not have a sequence of
- steps, with entry and exit criteria for each. Rather, it is more a collection
- of techniques that carry out an underlying philosophy. The philosophy
-is that an architecture document should
-
-
+documentation, but also because we go beyond views to include additional information that 
+belongs in an architecture document. Views and Beyond is not actually a method. 
+It does not have a sequence of steps, with entry and exit criteria for each. 
+Rather, it is more a collection of techniques that carry out an underlying philosophy. The philosophy
+is that an architecture document should be helpful to the people who depend on it to do their work 
+(far from least of which is the architect). The techniques can be bundled into a few categories:
+1. Finding out what stakeholders need. If you don't do this, you're going to
+  end up with documentation that may serve no one.
+2. Providing the information to satisfy those needs by recording design
+  decisions according to a variety of views, plus the beyond-view
+  information.
+3. Checking the resulting documentation to see if it satisfied the needs.
+4. Packaging the information in a useful form to its stakeholders.
 ```
 
