@@ -61,7 +61,7 @@ is that an architecture document should be helpful to the people who depend on i
 ```text
 A formula to show the savings looks like this:
 
-$$ Σover all activities A = (Cost of A without AD - Cost of A with AD) > Cost of AD $$
+Σ over all activities A = (Cost of A without AD - Cost of A with AD) > Cost of AD
 
  where "Cost of A without AD" and "Cost of A with AD" are the cost
  of performing activity A without and with (respectively) an architecture
