@@ -63,11 +63,11 @@ A formula to show the savings looks like this:
 
 Σ over all activities A = (Cost of A without AD - Cost of A with AD) > Cost of AD
 
- where "Cost of A without AD" and "Cost of A with AD" are the cost
- of performing activity A without and with (respectively) an architecture
- document. "Cost of AD" is the cost of producing and maintaining the
- architecture documentation. In other words, the payback from good
- architecture documentation should exceed the effort to create it. Payback
+where "Cost of A without AD" and "Cost of A with AD" are the cost
+of performing activity A without and with (respectively) an architecture
+document. "Cost of AD" is the cost of producing and maintaining the
+architecture documentation. In other words, the payback from good
+architecture documentation should exceed the effort to create it. Payback
 is measured in terms of effort saved.
 
 
